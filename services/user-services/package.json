@@ -1,0 +1,11 @@
+{
+  "name": "user-services",
+  "version": "1.0.0",
+  "description": "user services for e-wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ms",
+  "license": "ISC"
+}
